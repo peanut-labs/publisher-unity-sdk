@@ -41,9 +41,6 @@ Project_path/Plugins/res/*
 Open Rewards Center with User Id
 PeanutLabsManager.openRewardsCenterWithUserId(“USER_ID_HERE”);
 
-Open Rewards Center with app Id
-PeanutLabsManager.openRewardsCenterWithAppId(APP_ID_HERE, “APP_KEY_HERE”, “END_USER_ID_HERE”);
-
 ```
 
 
