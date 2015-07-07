@@ -43,6 +43,25 @@ PeanutLabsManager.openRewardsCenterWithUserId(“USER_ID_HERE”);
 
 ```
 
+* Add dob and gender as a parameter
 
+``` C#
+Setting gender
+PeanutLabsManager.setGender("2");
+
+Setting dob
+PeanutLabsManager.setDateOfBirth("12-12-1989");
+
+```
+
+* Add custom parameters
+
+``` C#
+First parameter should be var_key and second parameter should be var_val
+
+PeanutLabsManager.addCustomParam("firstname", "Bilguun");
+PeanutLabsManager.addCustomParam("lastname", "Oyunchimeg");
+
+```
 
 
