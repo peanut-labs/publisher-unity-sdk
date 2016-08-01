@@ -1,3 +1,5 @@
+Note: If you are using Unity 4.x, please use the package file `unity4x_publisher_sdk.unitypackage` and `publisher_unity_sdk.unitypackage` for Unity 5.x
+
 # publisher-unity-sdk
 
 Our Plugin allows you to launch the Peanut Labs Reward Center as an overlay on top of you application from anywhere in the application. We recommend using our Plugin because it comes with the basic navigation controls a user would need to go between, surveys, offers and our Reward Center.
@@ -63,5 +65,3 @@ PeanutLabsManager.addCustomParam("firstname", "Bilguun");
 PeanutLabsManager.addCustomParam("lastname", "Oyunchimeg");
 
 ```
-
-
