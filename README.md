@@ -1,4 +1,4 @@
-Note: If you are using Unity 4.x, please use the package file `unity4x_publisher_sdk.unitypackage` and `publisher_unity_sdk.unitypackage` for Unity 5.x
+Note: If you are using Unity 4.x, please use the package file `unity4x_publisher_sdk.unitypackage` and `publisher_unity_sdk.unitypackage` for Unity 5.x and if you are 5.4 or above please use unity5.4_publisher_sdk.unitypackage
 
 # publisher-unity-sdk
 
